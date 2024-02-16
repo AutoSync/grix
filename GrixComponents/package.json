@@ -1,0 +1,12 @@
+{
+  "name": "grix",
+  "version": "1.0.0",
+  "description": "generation rules interface extension",
+  "main": "main.js",
+  "author": "erick andrade",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev" : "node ./grix/grix.js"
+  }
+}
